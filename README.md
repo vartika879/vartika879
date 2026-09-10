@@ -1,16 +1,45 @@
-## Hi there 👋
+┌──────────────────────────────┐
+│       VARTIKA GUPTA          │
+│                              │
+│ AI Engineer • GenAI • Agents │
+└──────────────────────────────┘
 
-<!--
-**vartika879/vartika879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        ABOUT ME
 
-Here are some ideas to get you started:
+        WHAT I BUILD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        TECH STACK
+
+        FEATURED PROJECTS
+VARTIKA GUPTA
+AI Engineer • Generative AI • AI Agents
+
+About Me
+
+What I Build
+→ AI Agents
+→ RAG Systems
+→ LLM Applications
+→ AI Automation
+
+Tech Stack
+
+Featured Projects
+→ Evolutionary Chatbot
+→ Self-Correcting Agent
+→ AI Resume Assistant
+→ MCP project
+→ Advanced RAG
+
+Currently Exploring
+→ Production RAG
+→ Agent Security
+→ LLM Evaluation
+→ LLMOps
+
+GitHub / LinkedIn
+        CURRENTLY EXPLORING
+
+        GITHUB ACTIVITY
+
+        CONNECT WITH ME
